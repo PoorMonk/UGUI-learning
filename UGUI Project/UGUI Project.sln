@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UGUI Project", "UGUI Project.csproj", "{228CBAD0-E397-1434-3A58-E6D70F5DB9FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{228CBAD0-E397-1434-3A58-E6D70F5DB9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228CBAD0-E397-1434-3A58-E6D70F5DB9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228CBAD0-E397-1434-3A58-E6D70F5DB9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228CBAD0-E397-1434-3A58-E6D70F5DB9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
